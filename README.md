@@ -1,3 +1,5 @@
+![Eign](eignbanner.png)
+
 # Eign
 
 A private AI harness. An agent you carry, not one you log into.
