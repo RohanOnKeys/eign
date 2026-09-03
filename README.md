@@ -1,16 +1,16 @@
-# Eigen
+# eign
 
 A private AI harness. An agent you carry, not one you log into.
 
 ## The idea
 
-Most AI assistants remember you by handing your history to a server somewhere and hoping the policy on file holds up. This flips that. The agent lives on a drive. The memory lives on that same drive, encrypted, under a key only you hold. The model itself stays exactly where it already is, hosted, stateless, borrowed for a moment and returned.
+Most AI assistants remember you by handing your history to a server somewhere and hoping the policy on file holds up. This flips that. The agent lives on a drive. The memory lives on that same driv[...]
 
 Plug the drive into a different machine and the agent still knows you. Unplug it and nothing is left behind, on the host or with the provider.
 
 ## Why bother
 
-There are only two options right now. Go incognito and lose everything when the tab closes. Log in and hand your history to someone else's infrastructure. Neither one is actually yours. This is the third option: portable, persistent, and quiet about it.
+There are only two options right now. Go incognito and lose everything when the tab closes. Log in and hand your history to someone else's infrastructure. Neither one is actually yours. This is th[...]
 
 ## What's here so far
 
@@ -23,7 +23,7 @@ That's the shape of it. The interesting parts, how recall actually works, how me
 
 ## Where it's headed
 
-This is early. The near-term goal is simple: run cleanly off a drive on every major platform and prove it leaves nothing behind on the way. After that, the memory model gets more interesting, recall gets sharper, and the list of things it can quietly plug into gets longer. More on that as it lands.
+This is early. The near-term goal is simple: run cleanly off a drive on every major platform and prove it leaves nothing behind on the way. After that, the memory model gets more interesting, reca[...]
 
 ## Building it
 
@@ -31,7 +31,7 @@ Nothing to build yet, actively getting there. Instructions land with the first w
 
 ## A note on trust
 
-Private here means encrypted at rest and under your control, not invisible. Eigen doesn't try to hide from a machine you don't own, and it doesn't try to dodge the people whose infrastructure it's borrowing. It just doesn't leave anything behind that it doesn't have to.
+Private here means encrypted at rest and under your control, not invisible. eign doesn't try to hide from a machine you don't own, and it doesn't try to dodge the people whose infrastructure it's[...]
 
 ## License
 
