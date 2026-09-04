@@ -1,4 +1,4 @@
-![Eign](eignbanner.png)
+![Eign](eign-banner.png)
 
 # Eign
 
